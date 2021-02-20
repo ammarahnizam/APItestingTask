@@ -1,0 +1,27 @@
+{
+  "name": "apitest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start & cypress run",
+    "pretest": "npm run lint && npm run types",
+    "print-env": "print-env",
+    "e2e": "cypress run"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Ammarah",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^6.3.0",
+    "cypress-multi-reporters": "^1.4.0",
+    "mocha": "^8.2.1",
+    "mochawesome-merge": "^4.2.0",
+    "mochawesome-report-generator": "^5.1.0"
+  },
+  "dependencies": {
+    "mochawesome": "^6.2.1"
+  }
+}
