@@ -32,4 +32,5 @@ Tools:
 =================
 IDE: Visual Studio Code 
 Automation Tool: Cypress
+BDD Framework: Mocha
 
