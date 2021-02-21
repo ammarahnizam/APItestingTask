@@ -2,7 +2,7 @@
 
 
 About Project:
-This is a small project in which a Vontact Agenda  Rest api is automated using Cypress Framework
+This is a small project in which a Contact Agenda Rest api is automated using Cypress and Mocha Framework
 
 Pre-requisites:
 =====================
