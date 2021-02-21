@@ -4,12 +4,11 @@
 About Project:
 This is a small project in which a Contact Agenda Rest api is automated using Cypress and Mocha Framework
 
-Pre-requisites:
-=====================
+I performed the following steps to in order to create a Cypress and Mocha Framework
 1. Download and install node
 2. Check the installation and version using "node --version.
 3. Now install npm
-4. Go to terminal and type npm init( You will get package.json file which contain meta data and dependencies)
+4. Go to terminal and type npm init
 5. Install Cypress
 6. Install mocha
 
