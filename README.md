@@ -18,9 +18,9 @@ In order to execute the tests make sure the following is true:
 1) Start Docker
 2) Run the provided docker cantainer
 3) Access http://localhost:8000 (make sure no other service is running on Post 8000)
-4)Open new window in Visual Studio Code Editor
-5)Go to Terminal
-6)Run the command: npm run e2e( this will start your tests in headless mode) or npx cypress open( this will start your tests in browser)
+4) Open Visual Studio Code Editor
+5) Go to Terminal
+6) Run the command: npx cypress open( this will start your tests in browser)
 
 
 Note:
