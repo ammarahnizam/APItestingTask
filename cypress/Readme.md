@@ -1,6 +1,7 @@
 APItestingTask
 
 About Project: 
+=====================
 This is a small project in which a Contact Agenda Rest api is automated using Cypress and Mocha Framework
 
 I performed the following steps to in order to create a Cypress and Mocha Framework
@@ -12,6 +13,7 @@ I performed the following steps to in order to create a Cypress and Mocha Framew
 6. Install mocha
 
 Steps to Run Tests:
+=======================
 In order to execute the tests make sure the following is true:
 1. Start Docker
 2. Run the provided docker cantainer
@@ -21,7 +23,9 @@ In order to execute the tests make sure the following is true:
 6. Run the command: npx cypress open( this will start your tests in browser)
 
 Note:
+========================
 For delete test case, please change the id in the url before running the tests
 
 Tools:
+========================
 IDE: Visual Studio Code Automation Tool: Cypress Test Framework: Mocha
